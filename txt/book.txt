@@ -1,0 +1,167 @@
+Difficulty of the science
+
+1. There is no science more difficult than that on which we are
+entering in these lectures. It is worth while to discuss the nature of
+this difficulty. It is a question of interest rather than of intricacy.
+All sciences have, perhaps, much the same possibilities of broad theory
+and subtle analysis. But Logic stands alone in the difficulty with
+which the student sustains his persuasion that its point of view is
+worth applying.
+
+In most other sciences, even in the philosophical sciences, there
+is a continual stimulus to sense-perception, to curiosity, to human
+interest. The learner is called upon to dissect animals or plants,
+to undertake delicate manipulations with beautifully contrived
+instruments, to acquaint himself with the history of nations, with
+the genesis of worlds, with strange and novel speculations upon the
+nature of space, or with the industry and well-being of various classes
+among mankind at the present day. And these elements of novelty, these
+stimulations of sense-perception or of practical interest, carry us
+forward imperceptibly, and sustain our {2} eagerness to analyse and
+combine in theoretic completeness the novel matter thus constantly
+impinging upon us.
+
+In Philosophy, and more especially in Logic, we can promise little
+or nothing of this kind. The teacher of Philosophy, from Socrates
+downwards, has talked about common things, things already familiar
+to his hearers. And although he calls upon them to think of these
+things in a peculiar way, and from an unaccustomed point of view, yet
+it is likely to be felt that he is demanding a new effort, without
+supplying a new interest. And it is a common experience, that after a
+time the mind rebels against this artificial attitude, which fatigues
+without instructing, if we have accustomed ourselves to understand by
+instruction the accumulation of new sense-perceptions and the extension
+of historical or scientific vision over a wider superficial area.
+
+Now this I cannot help, and I will not disguise. In Philosophy, and
+in Logic above all, it must be so. The whole point and meaning of the
+study is that in it we re-traverse familiar ground, and survey it by
+unfamiliar processes. We do not, except accidentally, so much as widen
+our mental horizon. For those who care to understand, to trace the
+connecting principles and functions that permeate our intellectual
+world, there is indeed an interest of a peculiar kind. But even
+experienced students will occasionally feel the strain of attending to
+difficult distinctions, entirely without the excitement of novelty in
+sense-perception or of a practical bearing upon human life. It is this
+that makes Logic probably the hardest of all the sciences.
+
+2. We cannot hope to vanquish this difficulty unless we face it boldly
+from the first. There are in the old-fashioned Logic-books tricks and
+puzzles, fallacies and repartees, which can in some degree be made
+amusing; but of these I do not intend to speak. The course by which
+alone I can hope honestly to awaken a true logical interest among
+any who may be quite unfamiliar with the subject, is to approach the
+matter descriptively, and try to set before you fully and fairly what
+the problem is which the process of knowledge has to meet. And then
+it may be possible to claim a genuine theoretical curiosity--none the
+less genuine that it may be tinged with a sympathy for man’s common
+birthright of intelligence--for the detailed explanation of the means
+by which this problem is solved from day to day. Such an explanation is
+the science of Logic.
+
+The problem may be thus introduced. Several of those present have,
+I believe, attended a previous course of lectures on Psychology.
+They have learned, I presume, to think of the mind as the course of
+consciousness, a continuous connected presentation, more or less
+emphasising within it various images, and groups of images and ideas,
+which may be roughly said to act and re-act upon each other, to cohere
+in systems, and to give rise to the perception of self. This course
+of consciousness, including certain latent elements, the existence
+of which it is necessary to assume, is an individual mind, attached
+to a particular body, and so far as we know, not separable from the
+actions and affections of that body. What is the connection between
+such a course of consciousness in any individual, and the world as
+that individual knows and wills it? This is the point at {4} which
+Psychology passes into Logic. Psychology treats of the course of ideas
+and feelings; Logic of the mental construction of reality. How does the
+course of my private ideas and feelings contain in it, for me, a world
+of things and persons which are _not merely in my mind?
+
+
+3. Schopenhauer called his great work, _The World as Will and
+Idea_. [1] Leaving out Will for the moment, let us consider the world
+“as Idea.”
+
+  “‘The world is my idea;’ [2] this is a truth which holds
+  good for everything that lives and knows, though man alone
+  can bring it into reflective and abstract consciousness. If
+  he really does this, he has attained to philosophical wisdom.
+  It then becomes clear and certain to him that what he knows
+  is not a sun and an earth, but only an eye that sees a sun,
+  a hand that feels an earth; that the world which surrounds
+  him is there only as an idea, _i.e._ only in relation to
+  something else, the consciousness which is himself. If any
+  truth can be asserted _a priori_, it is this; for it is the
+  expression of the most general form of all possible and
+  thinkable experience: a form which is more general than
+  time, space, or causality, for they all pre-suppose it.
+
+  .....
+
+  “No truth, therefore, is more certain, more independent of
+  all others, and less in need of proof than this, that all that
+  exists for knowledge, and, therefore, this whole world, is
+  only object in relation to subject, perception of a perceiver,
+  in a word, idea. This is obviously true of the past and the
+  future, as well as of the present, of what is farthest off, as
+  of {5} what is near; for it is true of time and space
+  themselves, in which alone these distinctions arise. All that
+  in any way belongs or can belong to the world is inevitably
+  thus conditioned through the subject and exists only for the
+  subject. The world is idea.”
+
+4. So much for “idea.” What do we mean by “world”? A succession of
+images passing before us, or rather making up our consciousness, like a
+dream, is not a world. The term is very expressive; it is a favourite
+word in Shakespeare. When the courtier says —
+
+  “Hereafter, in a better world than this,
+  I shall desire more love and knowledge of you,”
+
+he does not mean, as I used to think, “in heaven”; he means in a
+better condition of social affairs. In “mad world, mad kings, mad
+composition,” the term means more especially the set of political and
+family connections within which extraordinary reversals of behaviour
+have just taken place. Often we use the expression, with a qualifying
+epithet, to indicate some particular sphere of connected action, “the
+ecclesiastical world,” “the political world,” and so forth. Always
+there seems to be implied the notion of a set of things or persons
+bound together by some common quality which enables them to act upon
+each other, and to constitute what is technically termed a “whole.”
+_The_ “world” _par excellence_, then, ought to mean the one connected
+set of things and persons which we all recognise {6} and refer to as
+the same, and as including ourselves along with all who use the word in
+the same sense.
+
+Then the “world as idea” means no less than this, that the system of
+things and persons which surrounds all of us, and which each of us
+speaks of and refers to as the same for every one, exists for each of
+us as something built up in his own mind--the mind attached to his own
+body--and out of the material of his own mind.
+
+5. Let us illustrate this building up by thinking of the world, our
+surroundings, as an animal must be aware of it. The lowest beginnings
+of sight, for example, give no colour and no shape. An animal in this
+stage can, probably, only just take warning if a dark object comes
+between him and the light. Therefore he cannot have the ordered visual
+image of space definitely stretching away all round him, which is the
+primary basis of our idea of a world. He can move, no doubt, but there
+is nothing to make us suppose that he records and co-ordinates the
+results of his movements into anything like that permanent order of
+objects which must be constructed in some way by a human being even
+though born blind. Succession, we might say, is much more powerful
+with animals than co-existence; but we should have to guard ourselves
+against supposing that this was what we mean by succession, that is,
+a process definitely recognised as in time, with a connection of some
+reasonable kind between its phases. For the most part with animals
+out of sight is out of mind; if so, the present is not interpreted,
+enlarged, and arranged with reference to what is not present in time
+or space by them as it is by us. And therefore the consciousness of a
+single system of things, {7} permanent, and distinct from the momentary
+presentations of the senses, cannot, in all probability, grow up for
+them. If so, they have no real world, but only a dream world, [1]
+_i.e._ a world not contrasted with the stream of presentation, nor
+taken as the common theatre of all actions and events. This difference
+between the world of an animal and that of a human being, is a rough
+measure of what man does by mental or intellectual construction in
+making his world.
